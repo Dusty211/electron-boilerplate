@@ -2,14 +2,8 @@
 node_modules
 jspm_packages
 
-# Serverless directories
-.serverless
-
 #Webpack
 .webpack
-
-#Env variables for local testing:
-local.env.yml
 
 #Jest testing
 coverage
