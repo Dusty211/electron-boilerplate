@@ -7,3 +7,6 @@ jspm_packages
 
 #Jest testing
 coverage
+
+#electron-forge
+out/
