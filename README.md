@@ -1,0 +1,1 @@
+## This is a simple starting template for an Electron app.
