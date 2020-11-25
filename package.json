@@ -2,7 +2,7 @@
   "name": "first-electron",
   "version": "1.0.0",
   "description": "Practice app",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
     "test": "echo \"No test framework installed\""
   },
