@@ -1,5 +1,5 @@
 {
-  "name": "first-electron",
+  "name": "electron-boilerplate",
   "version": "1.0.0",
   "description": "Practice app",
   "main": "src/main.js",
@@ -33,7 +33,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "first_electron"
+            "name": "electron_boilerplate"
           }
         },
         {
